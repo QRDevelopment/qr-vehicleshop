@@ -5,7 +5,7 @@
 ## 📸 Preview
 ![QR Vehicle Shop](https://i.ibb.co/hF1YBW5J/dmv.png)
 
-## 📸 Video Preview [Video Preview](https://www.youtube.com/watch?v=w2vyb3PHJVw)
+## 📸 Video Preview: [Watch Preview](https://www.youtube.com/watch?v=w2vyb3PHJVw)
 
 ## ✨ Features
 - 🚘 **Dynamic Vehicle Listings** – Browse and purchase from a variety of vehicles.
