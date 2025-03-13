@@ -4,6 +4,7 @@
 
 ## 📸 Preview
 ![QR Vehicle Shop](https://i.ibb.co/hF1YBW5J/dmv.png)
+[Video Preview](https://www.youtube.com/watch?v=w2vyb3PHJVw)
 
 ## ✨ Features
 - 🚘 **Dynamic Vehicle Listings** – Browse and purchase from a variety of vehicles.
@@ -40,4 +41,4 @@ This project is licensed under the **MIT License**. Feel free to modify and dist
 - Special thanks to the FiveM & QBCore community!
 
 ## 📬 Support
-For help and updates, join our Discord community: [QR Development Discord](https://discord.gg/your-discord-link)
+For help and updates, join our Discord community: [QR Development Discord](https://discord.gg/pNvGMgQ2vZ)
