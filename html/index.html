@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Premium Deluxe Motorsport</title>
+        <link rel="stylesheet" href="style.css" />
+        <link
+            href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
+            rel="stylesheet"
+            media="print"
+            onload="this.media='all'"
+        />
+    </head>
+    <body>
+        <div class="test-drive-timer">
+            <span class="timer-text">Test Drive:</span>
+            <span class="timer-seconds">30</span>s
+        </div>
+
+        <div id="container" class="hidden">
+            <div class="sidebar">
+                <div class="logo">
+                    <img
+                        src="assets/logo.png"
+                        alt="Premium Deluxe Motorsport Logo"
+                        loading="lazy"
+                    />
+                    <div class="watermark">Premium Deluxe Motorsport</div>
+                </div>
+
+                <div class="vehicle-counter">
+                    <span id="vehicleCount">0</span> vehicles available
+                </div>
+
+                <div class="filters">
+                    <div class="search-container">
+                        <input
+                            type="text"
+                            id="searchInput"
+                            placeholder="Search vehicles..."
+                        />
+                    </div>
+
+                    <div class="sort-container">
+                        <select id="sortSelect">
+                            <option value="name-asc">Name (A-Z)</option>
+                            <option value="name-desc">Name (Z-A)</option>
+                            <option value="price-asc">
+                                Price (Low to High)
+                            </option>
+                            <option value="price-desc">
+                                Price (High to Low)
+                            </option>
+                        </select>
+                    </div>
+
+                    <div class="sort-container">
+                        <select id="brandSelect">
+                            <option value="">All Brands</option>
+                            <!-- Brands will be populated by JS -->
+                        </select>
+                    </div>
+                </div>
+
+                <div class="categories">
+                    <!-- Categories will be populated by JS -->
+                </div>
+            </div>
+
+            <div class="main-content">
+                <div class="vehicle-grid">
+                    <!-- Vehicles will be populated by JS -->
+                </div>
+            </div>
+
+            <div class="vehicle-info hidden">
+                <!-- Vehicle details will be populated by JS -->
+            </div>
+        </div>
+
+        <script src="script.js" defer></script>
+    </body>
+</html>
