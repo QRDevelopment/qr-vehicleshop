@@ -245,7 +245,7 @@ Config.Vehicles = {
             name = "Impaler SZ",
             brand = "Declasse",
             model = "impaler5",
-            price = 1620000, // Based on San Andreas Mercenaries DLC
+            price = 1620000,
             category = "sedans"
         },
         ["ingot"] = {
@@ -294,7 +294,7 @@ Config.Vehicles = {
             name = "Rhinehart",
             brand = "Ubermacht",
             model = "rhinehart",
-            price = 1598000, // Based on Drug Wars DLC
+            price = 1598000,
             category = "sedans"
         },
         ["romero"] = {
@@ -695,7 +695,7 @@ Config.Vehicles = {
             name = "Vivanite",
             brand = "Karin",
             model = "vivanite",
-            price = 1805000, // Based on San Andreas Mercenaries DLC
+            price = 1805000,
             category = "suvs"
         },
         ["xls"] = {
@@ -725,7 +725,7 @@ Config.Vehicles = {
             name = "FR36 (Drift)",
             brand = "Fathom",
             model = "driftfr36",
-            price = 1990000, // Based on drift variant price
+            price = 1990000,
             category = "coupes"
         },
         ["exemplar"] = {
@@ -760,7 +760,7 @@ Config.Vehicles = {
             name = "FR36",
             brand = "Fathom",
             model = "fr36",
-            price = 1680000, // Based on Los Santos Drug Wars DLC
+            price = 1680000,
             category = "coupes"
         },
         ["jackal"] = {
@@ -774,7 +774,7 @@ Config.Vehicles = {
             name = "Kanjo SJ",
             brand = "Dinka",
             model = "kanjosj",
-            price = 1370000, // Based on Criminal Enterprises DLC
+            price = 1370000,
             category = "coupes"
         },
         ["oracle"] = {
@@ -795,7 +795,7 @@ Config.Vehicles = {
             name = "Postlude",
             brand = "Dinka",
             model = "oracle2",
-            price = 1310000, // Based on San Andreas Mercenaries DLC
+            price = 1310000,
             category = "coupes"
         },
         ["previon"] = {
@@ -860,14 +860,14 @@ Config.Vehicles = {
             name = "Brigham",
             brand = "Albany",
             model = "brigham",
-            price = 1790000, // Los Santos Drug Wars DLC
+            price = 1790000,
             category = "muscle"
         },
         ["broadway"] = {
             name = "Broadway",
             brand = "Classique",
             model = "broadway",
-            price = 925000, // Los Santos Drug Wars DLC
+            price = 925000,
             category = "muscle"
         },
         ["buccaneer"] = {
@@ -895,7 +895,7 @@ Config.Vehicles = {
             name = "Buffalo EVX",
             brand = "Bravado",
             model = "buffalo5",
-            price = 2140000, // Los Santos Drug Wars DLC
+            price = 2140000,
             category = "muscle"
         },
         ["chino"] = {
@@ -923,7 +923,7 @@ Config.Vehicles = {
             name = "Clique Wagon",
             brand = "Vapid",
             model = "clique2",
-            price = 1848000, // San Andreas Mercenaries DLC
+            price = 1848000,
             category = "muscle"
         },
         ["coquette3"] = {
@@ -965,21 +965,21 @@ Config.Vehicles = {
             name = "Apocalypse Dominator",
             brand = "Vapid",
             model = "dominator4",
-            price = 1132000, // Arena War price
+            price = 1132000,
             category = "muscle"
         },
         ["dominator5"] = {
             name = "Future Shock Dominator",
             brand = "Vapid",
             model = "dominator5",
-            price = 1132000, // Arena War price
+            price = 1132000,
             category = "muscle"
         },
         ["dominator6"] = {
             name = "Nightmare Dominator",
             brand = "Vapid",
             model = "dominator6",
-            price = 1132000, // Arena War price
+            price = 1132000,
             category = "muscle"
         },
         ["dominator7"] = {
@@ -1000,14 +1000,14 @@ Config.Vehicles = {
             name = "Dominator GT",
             brand = "Vapid",
             model = "dominator9",
-            price = 2195000, // San Andreas Mercenaries DLC
+            price = 2195000,
             category = "muscle"
         },
         ["driftyosemite"] = {
             name = "Yosemite (Drift)",
             brand = "Declasse",
             model = "driftyosemite",
-            price = 1308000, // Drift variant price
+            price = 1308000,
             category = "muscle"
         },
         ["dukes"] = {
@@ -1035,7 +1035,7 @@ Config.Vehicles = {
             name = "Eudora",
             brand = "Willard",
             model = "eudora",
-            price = 1250000, // Los Santos Drug Wars DLC
+            price = 1250000,
             category = "muscle"
         },
         ["faction"] = {
@@ -1133,49 +1133,49 @@ Config.Vehicles = {
             name = "Apocalypse Impaler",
             brand = "Declasse",
             model = "impaler2",
-            price = 1209350, // Arena War price
+            price = 1209350,
             category = "muscle"
         },
         ["impaler3"] = {
             name = "Future Shock Impaler",
             brand = "Declasse",
             model = "impaler3",
-            price = 1209350, // Arena War price
+            price = 1209350,
             category = "muscle"
         },
         ["impaler4"] = {
             name = "Nightmare Impaler",
             brand = "Declasse",
             model = "impaler4",
-            price = 1209350, // Arena War price
+            price = 1209350,
             category = "muscle"
         },
         ["impaler6"] = {
             name = "Impaler LX",
             brand = "Declasse",
             model = "impaler6",
-            price = 1657500, // San Andreas Mercenaries DLC
+            price = 1657500,
             category = "muscle"
         },
         ["imperator"] = {
             name = "Apocalypse Imperator",
             brand = "Vapid",
             model = "imperator",
-            price = 1718000, // Arena War price
+            price = 1718000,
             category = "muscle"
         },
         ["imperator2"] = {
             name = "Future Shock Imperator",
             brand = "Vapid",
             model = "imperator2",
-            price = 1718000, // Arena War price
+            price = 1718000,
             category = "muscle"
         },
         ["imperator3"] = {
             name = "Nightmare Imperator",
             brand = "Vapid",
             model = "imperator3",
-            price = 1718000, // Arena War price
+            price = 1718000,
             category = "muscle"
         },
         ["lurcher"] = {
@@ -1287,7 +1287,7 @@ Config.Vehicles = {
             name = "Lost Slamvan",
             brand = "Vapid",
             model = "slamvan2",
-            price = 49500, // Special vehicle, not normally purchasable
+            price = 49500,
             category = "muscle"
         },
         ["slamvan3"] = {
@@ -1301,21 +1301,21 @@ Config.Vehicles = {
             name = "Apocalypse Slamvan",
             brand = "Vapid",
             model = "slamvan4",
-            price = 1268000, // Arena War price
+            price = 1268000,
             category = "muscle"
         },
         ["slamvan5"] = {
             name = "Future Shock Slamvan",
             brand = "Vapid",
             model = "slamvan5",
-            price = 1268000, // Arena War price
+            price = 1268000,
             category = "muscle"
         },
         ["slamvan6"] = {
             name = "Nightmare Slamvan",
             brand = "Vapid",
             model = "slamvan6",
-            price = 1268000, // Arena War price
+            price = 1268000,
             category = "muscle"
         },
         ["stalion"] = {
@@ -1336,7 +1336,7 @@ Config.Vehicles = {
             name = "Tahoma Coupe",
             brand = "Declasse",
             model = "tahoma",
-            price = 1500000, // Los Santos Drug Wars DLC
+            price = 1500000,
             category = "muscle"
         },
         ["tampa"] = {
@@ -1357,7 +1357,7 @@ Config.Vehicles = {
             name = "Tulip M-100",
             brand = "Declasse",
             model = "tulip2",
-            price = 1658000, // San Andreas Mercenaries DLC
+            price = 1658000,
             category = "muscle"
         },
         ["vamos"] = {
@@ -1385,7 +1385,7 @@ Config.Vehicles = {
             name = "Vigero ZX Convertible",
             brand = "Declasse",
             model = "vigero3",
-            price = 2250000, // San Andreas Mercenaries DLC
+            price = 2250000,
             category = "muscle"
         },
         ["virgo"] = {
@@ -1427,7 +1427,7 @@ Config.Vehicles = {
             name = "Weevil Custom",
             brand = "BF",
             model = "weevil2",
-            price = 980000, // San Andreas Mercenaries DLC
+            price = 980000,
             category = "muscle"
         },
         ["yosemite2"] = {
@@ -1788,7 +1788,7 @@ Config.Vehicles = {
             name = "Go Go Monkey Blista",
             brand = "Dinka",
             model = "blista3",
-            price = 42000, // Special reward vehicle
+            price = 42000,
             category = "sports"
         },
         ["buffalo"] = {
@@ -1809,7 +1809,7 @@ Config.Vehicles = {
             name = "Sprunk Buffalo",
             brand = "Bravado",
             model = "buffalo3",
-            price = 96000, // Special vehicle
+            price = 96000,
             category = "sports"
         },
         ["calico"] = {
@@ -1865,7 +1865,7 @@ Config.Vehicles = {
             name = "Comet S2 Cabrio",
             brand = "Pfister",
             model = "comet7",
-            price = 1797000, // Los Santos Drug Wars DLC
+            price = 1797000,
             category = "sports"
         },
         ["coquette"] = {
@@ -1893,7 +1893,7 @@ Config.Vehicles = {
             name = "La Coureuse",
             brand = "Classique",
             model = "coureur",
-            price = 1925000, // San Andreas Mercenaries DLC
+            price = 1925000,
             category = "sports"
         },
         ["cypher"] = {
@@ -1914,42 +1914,42 @@ Config.Vehicles = {
             name = "Euros (Drift)",
             brand = "Annis",
             model = "drifteuros",
-            price = 1390000, // Drift School variant
+            price = 1390000,
             category = "sports"
         },
         ["driftfuto"] = {
             name = "Futo GTX (Drift)",
             brand = "Karin",
             model = "driftfuto",
-            price = 1590000, // Drift School variant
+            price = 1590000,
             category = "sports"
         },
         ["driftjester"] = {
             name = "Jester RR (Drift)",
             brand = "Dinka",
             model = "driftjester",
-            price = 1970000, // Drift School variant
+            price = 1970000,
             category = "sports"
         },
         ["driftremus"] = {
             name = "Remus (Drift)",
             brand = "Annis",
             model = "driftremus",
-            price = 1370000, // Drift School variant
+            price = 1370000,
             category = "sports"
         },
         ["drifttampa"] = {
             name = "Drift Tampa (Drift)",
             brand = "Declasse",
             model = "drifttampa",
-            price = 995000, // Drift School variant
+            price = 995000,
             category = "sports"
         },
         ["driftzr350"] = {
             name = "ZR350 (Drift)",
             brand = "Annis",
             model = "driftzr350",
-            price = 1615000, // Drift School variant
+            price = 1615000,
             category = "sports"
         },
         ["elegy"] = {
@@ -1977,7 +1977,7 @@ Config.Vehicles = {
             name = "Hotring Everon",
             brand = "Karin",
             model = "everon2",
-            price = 1790000, // San Andreas Mercenaries DLC
+            price = 1790000,
             category = "sports"
         },
         ["feltzer2"] = {
@@ -2026,7 +2026,7 @@ Config.Vehicles = {
             name = "Hotring Hellfire",
             brand = "Bravado",
             model = "gauntlet6",
-            price = 1870000, // San Andreas Mercenaries DLC
+            price = 1870000,
             category = "sports"
         },
         ["gb200"] = {
@@ -2215,7 +2215,7 @@ Config.Vehicles = {
             name = "Panthere",
             brand = "Toundra",
             model = "panthere",
-            price = 2170000, // Los Santos Drug Wars DLC
+            price = 2170000,
             category = "sports"
         },
         ["paragon"] = {
@@ -2229,7 +2229,7 @@ Config.Vehicles = {
             name = "Paragon R (Armored)",
             brand = "Enus",
             model = "paragon2",
-            price = 0, // Casino mission reward
+            price = 0,
             category = "sports"
         },
         ["pariah"] = {
@@ -2257,7 +2257,7 @@ Config.Vehicles = {
             name = "300R",
             brand = "Declasse",
             model = "r300",
-            price = 2075000, // San Andreas Mercenaries DLC
+            price = 2075000,
             category = "sports"
         },
         ["raiden"] = {
@@ -2355,7 +2355,7 @@ Config.Vehicles = {
             name = "Sentinel Classic Widebody",
             brand = "Ubermacht",
             model = "sentinel4",
-            price = 700000, // Criminal Enterprises DLC
+            price = 700000,
             category = "sports"
         },
         ["seven70"] = {
@@ -2390,7 +2390,7 @@ Config.Vehicles = {
             name = "Itali GTO Stinger TT",
             brand = "Grotti",
             model = "stingertt",
-            price = 2380000, // San Andreas Mercenaries DLC
+            price = 2380000,
             category = "sports"
         },
         ["streiter"] = {
@@ -2581,7 +2581,7 @@ Config.Vehicles = {
             name = "Entity MT",
             brand = "Overflod",
             model = "entity3",
-            price = 2355000, // San Andreas Mercenaries DLC
+            price = 2355000,
             category = "super"
         },
         ["entityxf"] = {
@@ -2637,7 +2637,7 @@ Config.Vehicles = {
             name = "Itali GTB Custom",
             brand = "Progen",
             model = "italigtb2",
-            price = 495000, // Conversion price at Benny's
+            price = 495000,
             category = "super"
         },
         ["krieger"] = {
@@ -2672,7 +2672,7 @@ Config.Vehicles = {
             name = "Nero Custom",
             brand = "Truffade",
             model = "nero2",
-            price = 605000, // Conversion price at Benny's
+            price = 605000,
             category = "super"
         },
         ["osiris"] = {
@@ -2784,14 +2784,14 @@ Config.Vehicles = {
             name = "Torero XO",
             brand = "Pegassi",
             model = "torero2",
-            price = 2890000, // Los Santos Drug Wars DLC
+            price = 2890000,
             category = "super"
         },
         ["turismo3"] = {
             name = "Turismo Omaggio",
             brand = "Grotti",
             model = "turismo3",
-            price = 2845000, // San Andreas Mercenaries DLC
+            price = 2845000,
             category = "super"
         },
         ["turismor"] = {
@@ -2833,7 +2833,7 @@ Config.Vehicles = {
             name = "Virtue",
             brand = "Ocelot",
             model = "virtue",
-            price = 2980000, // Los Santos Drug Wars DLC
+            price = 2980000,
             category = "super"
         },
         ["visione"] = {
@@ -2961,21 +2961,21 @@ Config.Vehicles = {
             name = "Apocalypse Deathbike",
             brand = "Western",
             model = "deathbike",
-            price = 1269000, // Arena War price
+            price = 1269000,
             category = "motorcycles"
         },
         ["deathbike2"] = {
             name = "Future Shock Deathbike",
             brand = "Western",
             model = "deathbike2",
-            price = 1269000, // Arena War price
+            price = 1269000,
             category = "motorcycles"
         },
         ["deathbike3"] = {
             name = "Nightmare Deathbike",
             brand = "Western",
             model = "deathbike3",
-            price = 1269000, // Arena War price
+            price = 1269000,
             category = "motorcycles"
         },
         ["defiler"] = {
@@ -2996,7 +2996,7 @@ Config.Vehicles = {
             name = "Diablous Custom",
             brand = "Principe",
             model = "diablous2",
-            price = 245000, // Base + Benny's conversion
+            price = 245000,
             category = "motorcycles"
         },
         ["double"] = {
@@ -3052,7 +3052,7 @@ Config.Vehicles = {
             name = "FCR 1000 Custom",
             brand = "Pegassi",
             model = "fcr2",
-            price = 196000, // Base + Benny's conversion
+            price = 196000,
             category = "motorcycles"
         },
         ["gargoyle"] = {
@@ -3115,7 +3115,7 @@ Config.Vehicles = {
             name = "Manchez Scout C",
             brand = "Maibatsu",
             model = "manchez3",
-            price = 1995000, // San Andreas Mercenaries DLC
+            price = 1995000,
             category = "motorcycles"
         },
         ["nemesis"] = {
@@ -3143,7 +3143,7 @@ Config.Vehicles = {
             name = "Powersurge",
             brand = "Western",
             model = "powersurge",
-            price = 1605000, // Los Santos Drug Wars DLC
+            price = 1605000,
             category = "motorcycles"
         },
         ["ratbike"] = {
@@ -3285,7 +3285,7 @@ Config.Vehicles = {
             name = "Blazer Lifeguard",
             brand = "Nagasaki",
             model = "blazer2",
-            price = 8000, // Not normally purchasable in-game
+            price = 8000,
             category = "off-road"
         },
         ["blazer3"] = {
@@ -3320,7 +3320,7 @@ Config.Vehicles = {
             name = "Boor",
             brand = "Karin",
             model = "boor",
-            price = 1280000, // Los Santos Drug Wars DLC
+            price = 1280000,
             category = "off-road"
         },
         ["brawler"] = {
@@ -3334,21 +3334,21 @@ Config.Vehicles = {
             name = "Apocalypse Brutus",
             brand = "Declasse",
             model = "brutus",
-            price = 2666000, // Arena War price
+            price = 2666000,
             category = "off-road"
         },
         ["brutus2"] = {
             name = "Future Shock Brutus",
             brand = "Declasse",
             model = "brutus2",
-            price = 2666000, // Arena War price
+            price = 2666000,
             category = "off-road"
         },
         ["brutus3"] = {
             name = "Nightmare Brutus",
             brand = "Declasse",
             model = "brutus3",
-            price = 2666000, // Arena War price
+            price = 2666000,
             category = "off-road"
         },
         ["caracara2"] = {
@@ -3418,7 +3418,7 @@ Config.Vehicles = {
             name = "Mesa",
             brand = "Canis",
             model = "mesa3",
-            price = 87000, // Merryweather version
+            price = 87000,
             category = "off-road"
         },
         ["nightshark"] = {
@@ -3631,7 +3631,7 @@ Config.Vehicles = {
             name = "Gang Burrito",
             brand = "Declasse",
             model = "gburrito",
-            price = 65000, // Lost MC version
+            price = 65000,
             category = "vans"
         },
         ["gburrito2"] = {
@@ -3652,7 +3652,7 @@ Config.Vehicles = {
             name = "Journey II",
             brand = "Zirconium",
             model = "journey2",
-            price = 790000, // Los Santos Drug Wars DLC
+            price = 790000,
             category = "vans"
         },
         ["minivan"] = {
@@ -3729,7 +3729,7 @@ Config.Vehicles = {
             name = "Speedo Custom",
             brand = "Vapid",
             model = "speedo4",
-            price = 185000, // Nightclub delivery vehicle
+            price = 185000,
             category = "vans"
         },
         ["surfer"] = {
@@ -3743,14 +3743,14 @@ Config.Vehicles = {
             name = "Surfer",
             brand = "BF",
             model = "surfer2",
-            price = 8000, // Rusty version
+            price = 8000,
             category = "vans"
         },
         ["surfer3"] = {
             name = "Surfer Custom",
             brand = "BF",
             model = "surfer3",
-            price = 90000, // Los Santos Drug Wars DLC
+            price = 90000,
             category = "vans"
         },
         ["taco"] = {
@@ -3785,7 +3785,7 @@ Config.Vehicles = {
             name = "Youga Custom",
             brand = "Bravado",
             model = "youga4",
-            price = 370000, // Los Santos Drug Wars DLC
+            price = 370000,
             category = "vans"
         },
     },
