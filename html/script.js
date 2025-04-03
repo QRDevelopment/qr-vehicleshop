@@ -414,8 +414,15 @@ function loadVehicleData(card, vehicle) {
     return;
   }
 
-  // Use external URL for vehicle images
-  const imageUrl = `https://docs.fivem.net/vehicles/${vehicle.model.toLowerCase()}.webp`;
+  // Check if vehicle has custom image defined
+  let imageUrl;
+  if (vehicle.image) {
+    // Use the custom image from the config
+    imageUrl = `nui://qr-vehicleshop/html/assets/vehicles/${vehicle.image}`;
+  } else {
+    // Fallback to default FiveM docs images
+    imageUrl = `https://docs.fivem.net/vehicles/${vehicle.model.toLowerCase()}.webp`;
+  }
 
   // Use local path for brand logos
   const brandLogoUrl = `nui://qr-vehicleshop/html/assets/carbrands/${vehicle.brand.toLowerCase()}.webp`;
@@ -441,12 +448,22 @@ function showVehicleInfo(vehicle, imageUrl) {
   const info = document.querySelector(".vehicle-info");
   info.classList.remove("hidden");
 
+  // Check if vehicle has custom image defined
+  let displayImageUrl;
+  if (vehicle.image) {
+    // Use the custom image from the config
+    displayImageUrl = `nui://qr-vehicleshop/html/assets/vehicles/${vehicle.image}`;
+  } else {
+    // Use provided fallback image (fivem docs)
+    displayImageUrl = imageUrl;
+  }
+
   // Use the local path for the brand logo
   const brandLogoUrl = `nui://qr-vehicleshop/html/assets/carbrands/${vehicle.brand.toLowerCase()}.webp`;
 
   info.innerHTML = `
         <button class="close-btn" onclick="closeVehicleInfo()">×</button>
-        <div class="vehicle-image" style="background-image: url('${imageUrl}')"></div>
+        <div class="vehicle-image" style="background-image: url('${displayImageUrl}')"></div>
         <img class="brand-logo" src="${brandLogoUrl}" alt="${vehicle.brand}" loading="lazy">
         <h2 class="vehicle-name">${vehicle.name}</h2>
         <div class="vehicle-details">
