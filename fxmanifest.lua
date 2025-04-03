@@ -28,5 +28,6 @@ files {
     'html/style.css',
     'html/script.js',
     'html/assets/*.png',
-    'html/assets/carbrands/*.webp'
+    'html/assets/carbrands/*.webp',
+    'html/assets/vehicles/*.webp'
 }

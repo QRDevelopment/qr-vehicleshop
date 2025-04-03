@@ -4,7 +4,9 @@ Config.PedLocation = vector4(-55.57, -1097.98, 26.42, 351.45) -- Default PDM loc
 Config.PedModel = "cs_siemonyetarian"
 Config.TestDriveTime = 60                                -- Time in seconds for test drive
 Config.FuelScript = 'ps-fuel'                            -- Options: 'LegacyFuel', 'ps-fuel', 'cdn-fuel'
-Config.UseOxTarget = false
+Config.UseOxTarget = true
+
+-- add custom images by adding 'image = "image.webp"
 
 Config.Categories = {
     ["sports"] = "Sports",
@@ -28,6 +30,7 @@ Config.Vehicles = {
             model = "asbo",
             price = 408000,
             category = "compacts"
+            -- add custom images by adding 'image = "image.webp"
         },
         ["blista"] = {
             name = "Blista",
@@ -883,6 +886,14 @@ Config.Vehicles = {
             model = "buccaneer2",
             price = 390000,
             category = "muscle"
+        },
+        ["fudge"] = {
+            name = "Fudge Charger",
+            brand = "Fudge",
+            model = "buffalo4",
+            price = 20000,
+            category = "muscle",
+            image = "fudge_charger.webp"
         },
         ["buffalo4"] = {
             name = "Buffalo STX",
